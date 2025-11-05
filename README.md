@@ -6,10 +6,17 @@
 
 ---
 
-I'm a software engineer focused on building thoughtful, high-impact products. Currently working at:
+I'm a software engineer focused on building thoughtful, high-impact products that blend creativity, data, and user-centered design.
 
-- [Netverge](https://www.netverge.com/) – SWE Intern building AI-powered tools for MSPs  
-- [Visual Cognition Lab](https://www.viscoglab.psych.ubc.ca/) – Software Developer on visual perception research tools  
-- [UBC MINT](https://ubcmint.github.io/) – Software Engineer working on neurotechnology systems  
+Currently working at:
+
+- [Visual Cognition Lab](https://www.viscoglab.psych.ubc.ca/) — Software Developer on visual perception research tools  
+- [UBC MINT](https://ubcmint.github.io/) — Software Engineer developing neurotechnology systems that bridge hardware and software  
+
+Previously at:
+
+- [Netverge](https://www.netverge.com/) — Software Engineering Intern  
+  Built AI-powered automation tools for Managed Service Providers (MSPs)
 
 ---
+
