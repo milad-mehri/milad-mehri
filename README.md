@@ -13,8 +13,3 @@ I'm a software engineer focused on building thoughtful, high-impact products. Cu
 - [UBC MINT](https://ubcmint.github.io/) – Software Engineer working on neurotechnology systems  
 
 ---
-
-I'm building:
-
-- [Pinpoint](https://playpinpoint.co/): a puzzle game with 200k+ monthly plays  
-- ThenStep: a mobile app for natural language map search
